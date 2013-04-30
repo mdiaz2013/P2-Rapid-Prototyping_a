@@ -1,2 +1,4 @@
-P2-Rapid-Prototyping_a
-======================
+Bootstrap
+=========
+
+Boostrap for DESN 378

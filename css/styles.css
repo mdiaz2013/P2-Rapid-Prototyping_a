@@ -1,0 +1,154 @@
+.nav-tabs, .nav-pills	{
+	float:right;
+	margin-top: -51px;
+	font-size: 17px;	
+}
+
+#hisnav	{
+	float:right;
+	margin-top:11px;
+	font-size: 17px;
+}
+
+
+a:hover, a:focus {
+	color: #F33;
+}
+
+h1 {
+	color: #F33;
+	font-size: 45px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+
+p	{
+	margin-top:25px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	line-height: 33px;
+	color: #333;
+}
+
+.carousel-inner>.item>img	{
+	margin-left: 20px;
+}
+
+.carousel-control.right	{
+	margin-right: 4px;
+	margin-top: 0px;
+	
+}
+
+.carousel-control.left {
+	margin-left: 27px;
+	margin-top: 6px;
+}
+
+a	{
+	color: #999;
+}
+
+.extra {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align:center;
+	font-size: 25px;
+	color: #666;
+}
+
+.start	{
+	margin-bottom: 200px;
+	line-height: 37px;
+}
+
+#myCarousel	{
+	margin-top: 30px;
+}
+
+.container	{
+	margin-top: 30px;
+}
+
+h5	{
+	color: #F33;
+}
+
+p.p_thumbnail	{
+	color: #555;
+	font-size: 100%;
+	vertical-align: baseline;
+	alignment-adjust:central;
+	background: transparent;
+	width: 229px;
+	float: left;
+	margin-top: -7px;
+	font-size: 13px;
+	line-height: 20px;
+	text-align: left;
+}
+
+.thumbnails_hz	{
+	float: right;
+	margin-bottom: 35px;
+}
+
+.history_extra	{
+	margin-top: 77px;
+	font-size: 24px;
+	font-weight: normal;
+	text-align:left;
+	margin-right: 325px;
+	color: #F33;
+	font-family: Helvetica, Arial, sans-serif;
+	vertical-align: baseline;
+	alignment-adjust:central;
+	float: right;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	
+	
+}
+
+.align	{
+	margin-left: 238px;
+}
+
+.h1_history	{
+	margin-top: 285px;
+	color: #F33;
+	font-size: 43px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+	 
+	
+}
+
+.end_history	{
+	margin-bottom: 200px;
+	
+}
+
+.h1_uses	{
+	font-family: 'Ubuntu', sans-serif;
+	color: #F33;
+	font-size: 80px;
+	font-weight: bold;
+	margin-top: -115px;
+	margin-left: 137px;
+
+}
+
+.uses_para	{
+	width: 811px;
+	margin-top: 90px;
+	margin-left: 40px;
+	margin-bottom: 150px;
+}
+
+
+
+.span12 {
+width: 940px;
+margin-bottom: 30px;
+}
